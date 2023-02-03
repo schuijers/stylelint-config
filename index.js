@@ -354,6 +354,17 @@ module.exports = {
     'media-feature-name-no-vendor-prefix': true,
 
     /**
+     * Specify context or prefix notation for media feature ranges.
+     * https://stylelint.io/user-guide/rules/media-feature-range-notation
+     */
+    'media-feature-range-notation': [
+      'context',
+      {
+        severity: 'warning',
+      },
+    ],
+
+    /**
      * Require a single space or disallow whitespace after the range operator in media features.
      * https://stylelint.io/user-guide/rules/list/media-feature-range-operator-space-after
      */
