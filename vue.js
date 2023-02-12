@@ -12,6 +12,15 @@ module.exports = {
         /**
          * Vue specific overrides.
          */
+        'declaration-property-value-no-unknown': [
+          true,
+          {
+            ignoreProperties: {
+              '/.+/': '/^v-bind(.+)$/',
+            },
+          },
+        ],
+
         'function-no-unknown': [
           true,
           {

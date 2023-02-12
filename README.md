@@ -4,8 +4,15 @@ My shareable Stylelint configs.
 
 ## Installation
 
-```bash
+```shell script
+# npm
 npm install --save-dev @schuijers/stylelint-config
+
+# yarn
+yarn add --dev @schuijers/stylelint-config
+
+# pnpm
+pnpm add --save-dev @schuijers/stylelint-config
 ```
 
 This library has required `peerDependencies` listings for [`stylelint`](https://stylelint.io/) and
@@ -58,7 +65,7 @@ module.exports = {
 
 [MIT][license] &copy; [Martijn Schuijers][me]
 
-[license]: ../../LICENSE
+[license]: ./LICENSE
 [me]: https://github.com/schuijers
 [npm]: https://npmjs.org/package/@schuijers/stylelint-config
 [shield-github-build-status]:
