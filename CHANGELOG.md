@@ -1,5 +1,22 @@
 # @schuijers/stylelint-config
 
+## 0.4.0
+
+### Minor Changes
+
+- [#7](https://github.com/schuijers/stylelint-config/pull/7)
+  [`b0b9b6e`](https://github.com/schuijers/stylelint-config/commit/b0b9b6e1f4f1a3c4c8da8fa0b54677c103c65c01)
+  Thanks [@schuijers](https://github.com/schuijers)! - Added `declaration-property-value-no-unknown`
+  rule
+
+- [#7](https://github.com/schuijers/stylelint-config/pull/7)
+  [`b0b9b6e`](https://github.com/schuijers/stylelint-config/commit/b0b9b6e1f4f1a3c4c8da8fa0b54677c103c65c01)
+  Thanks [@schuijers](https://github.com/schuijers)! - Updated dependencies
+
+- [#7](https://github.com/schuijers/stylelint-config/pull/7)
+  [`b0b9b6e`](https://github.com/schuijers/stylelint-config/commit/b0b9b6e1f4f1a3c4c8da8fa0b54677c103c65c01)
+  Thanks [@schuijers](https://github.com/schuijers)! - Removed deprecated rules
+
 ## 0.3.0
 
 ### Minor Changes
