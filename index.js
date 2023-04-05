@@ -346,6 +346,12 @@ module.exports = {
     'no-irregular-whitespace': true,
 
     /**
+     * Disallow unknown custom properties.
+     * https://stylelint.io/user-guide/rules/no-unknown-custom-properties
+     */
+    'no-unknown-custom-properties': true,
+
+    /**
      * Limit the number of decimal places allowed in numbers.
      * https://stylelint.io/user-guide/rules/number-max-precision
      */
@@ -374,6 +380,12 @@ module.exports = {
         ignore: ['after-comment'],
       },
     ],
+
+    /**
+     * Disallow unmatchable An+B selectors.
+     * https://stylelint.io/user-guide/rules/selector-anb-no-unmatchable
+     */
+    'selector-anb-no-unmatchable': true,
 
     /**
      * Specify a pattern for class selectors.
