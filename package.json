@@ -1,6 +1,6 @@
 {
   "name": "@schuijers/stylelint-config",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Stylelint rules according to schuijers' personal preferences.",
   "license": "MIT",
   "author": "Martijn Schuijers",

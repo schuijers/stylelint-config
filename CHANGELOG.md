@@ -1,5 +1,21 @@
 # @schuijers/stylelint-config
 
+## 0.5.0
+
+### Minor Changes
+
+- [#9](https://github.com/schuijers/stylelint-config/pull/9)
+  [`8806c9d`](https://github.com/schuijers/stylelint-config/commit/8806c9d85d42bb726a95168e236b7b39d9d010c0)
+  Thanks [@schuijers](https://github.com/schuijers)! - Updated dependencies
+
+- [#9](https://github.com/schuijers/stylelint-config/pull/9)
+  [`8806c9d`](https://github.com/schuijers/stylelint-config/commit/8806c9d85d42bb726a95168e236b7b39d9d010c0)
+  Thanks [@schuijers](https://github.com/schuijers)! - Added `no-unknown-custom-properties` rule
+
+- [#9](https://github.com/schuijers/stylelint-config/pull/9)
+  [`8806c9d`](https://github.com/schuijers/stylelint-config/commit/8806c9d85d42bb726a95168e236b7b39d9d010c0)
+  Thanks [@schuijers](https://github.com/schuijers)! - Added `selector-anb-no-unmatchable` rule
+
 ## 0.4.0
 
 ### Minor Changes
